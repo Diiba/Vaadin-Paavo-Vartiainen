@@ -1,0 +1,9 @@
+com\example\project\entity\Measurement.class
+com\example\project\view\PersonView.class
+com\example\project\entity\Person.class
+com\example\project\service\MeasurementService.class
+com\example\project\ProjectApplication.class
+com\example\project\repository\MeasurementRepository.class
+com\example\project\repository\PersonRepository.class
+com\example\project\service\PersonService.class
+com\example\project\security\SecurityConfig.class

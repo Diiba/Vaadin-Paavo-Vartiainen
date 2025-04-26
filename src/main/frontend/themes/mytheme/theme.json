@@ -1,0 +1,6 @@
+{
+  "lumoImports": ["typography", "color", "spacing"],
+  "assets": {
+    "css": ["styles.css"]
+  }
+}

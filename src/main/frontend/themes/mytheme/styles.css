@@ -1,0 +1,11 @@
+:root {
+  --lumo-base-color: #f5f5f5;
+  --lumo-primary-color: #00796b;
+  --lumo-primary-text-color: white;
+  --lumo-body-text-color: #333;
+  --lumo-font-family: "Segoe UI", sans-serif;
+}
+
+html {
+  font-size: 16px;
+}
